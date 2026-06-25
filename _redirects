@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy | O2Taxi Thame</title>
+<meta name="description" content="O2Taxi privacy policy. How we collect, use and protect your personal information. O2Taxi, Thame, Oxfordshire.">
+<link rel="canonical" href="https://www.o2taxi.com/privacy/">
+<meta property="og:title" content="Privacy Policy | O2Taxi Thame">
+<meta property="og:url" content="https://www.o2taxi.com/privacy/">
+<meta property="og:type" content="website">
+<link rel="stylesheet" href="/style.css">
+<style>
+  .prose { max-width: 780px; }
+  .prose h2 { font-size: 1.2rem; font-weight: 700; margin: 32px 0 10px; color: var(--dark); }
+  .prose p { font-size: 0.92rem; color: var(--text); margin-bottom: 14px; line-height: 1.75; }
+  .prose ul { margin: 10px 0 14px 20px; }
+  .prose li { font-size: 0.92rem; color: var(--text); margin-bottom: 6px; line-height: 1.7; }
+</style>
+</head>
+<body>
+<div id="nav-slot"></div>
+<div class="breadcrumb"><div class="wrap"><a href="/">Home</a> &rsaquo; Privacy Policy</div></div>
+
+<section class="page-hero">
+  <div class="wrap">
+    <h1>Privacy Policy</h1>
+    <p>How O2Taxi collects, uses and protects your personal information.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="prose">
+      <p><strong>Last updated: January 2025</strong></p>
+      <p>O2Taxi ("we", "us", "our") is a taxi and private hire service based in Thame, Oxfordshire. This privacy policy explains how we collect and use information when you contact us or use our services.</p>
+
+      <h2>1. Information We Collect</h2>
+      <p>When you book a taxi or contact us, we may collect:</p>
+      <ul>
+        <li>Your name and phone number</li>
+        <li>Your pickup address and destination</li>
+        <li>Journey date and time</li>
+        <li>Flight or train details where provided</li>
+        <li>Any other information you voluntarily share with us</li>
+      </ul>
+
+      <h2>2. How We Use Your Information</h2>
+      <p>We use the information you provide solely to:</p>
+      <ul>
+        <li>Confirm and fulfil your taxi booking</li>
+        <li>Contact you about your journey</li>
+        <li>Provide you with your driver's details before pickup</li>
+        <li>Respond to any queries or complaints</li>
+      </ul>
+      <p>We do not use your information for marketing purposes without your explicit consent, and we do not sell your data to third parties.</p>
+
+      <h2>3. WhatsApp and Phone Communications</h2>
+      <p>When you contact us via WhatsApp or phone, your message content and contact details are visible to us. WhatsApp messages are subject to WhatsApp's own privacy policy (whatsapp.com/legal). We recommend reviewing their policy if you have concerns.</p>
+
+      <h2>4. Data Retention</h2>
+      <p>We retain your booking information for a reasonable period to handle any queries or disputes relating to your journey, after which it is securely deleted.</p>
+
+      <h2>5. Sharing Your Information</h2>
+      <p>We do not share your personal information with third parties except where necessary to fulfil your booking (for example, passing your pickup details to your assigned driver).</p>
+
+      <h2>6. Your Rights</h2>
+      <p>Under UK GDPR you have the right to:</p>
+      <ul>
+        <li>Request access to the personal data we hold about you</li>
+        <li>Request correction of inaccurate data</li>
+        <li>Request deletion of your data</li>
+        <li>Object to processing of your data</li>
+      </ul>
+      <p>To exercise any of these rights, please contact us via WhatsApp on 07923 360048 or by calling us directly.</p>
+
+      <h2>7. Cookies and Website</h2>
+      <p>Our website (o2taxi.com) does not use tracking cookies or analytics services that collect personal data. We use Google Fonts which may set a cookie – you can block this in your browser settings if preferred.</p>
+
+      <h2>8. Contact Us</h2>
+      <p>If you have any questions about this privacy policy or how we handle your data, please contact us:</p>
+      <ul>
+        <li><strong>Phone / WhatsApp:</strong> <a href="tel:+447923360048">07923 360048</a></li>
+        <li><strong>Email:</strong> <a href="mailto:info@o2taxi.com">info@o2taxi.com</a></li>
+        <li><strong>Address:</strong> Thame, Oxfordshire, OX9</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<div id="footer-slot"></div>
+<script src="/nav.js"></script>
+</body>
+</html>
